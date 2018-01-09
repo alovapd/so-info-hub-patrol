@@ -1,0 +1,26 @@
+{
+  "name": "so-info-hub-patrol",
+  "version": "1.0.0",
+  "description": "Information management tool to allow for better data tracking of specific tasks within the organization",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alovapd/so-info-hub-patrol.git"
+  },
+  "author": "alovapd, connerk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alovapd/so-info-hub-patrol/issues"
+  },
+  "homepage": "https://github.com/alovapd/so-info-hub-patrol#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
