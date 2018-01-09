@@ -2,9 +2,10 @@
   "name": "so-info-hub-patrol",
   "version": "1.0.0",
   "description": "Information management tool to allow for better data tracking of specific tasks within the organization",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "app.js"
   },
   "repository": {
     "type": "git",
