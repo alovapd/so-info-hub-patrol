@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/alovapd/so-info-hub-patrol/issues"
   },
-  "homepage": "https://github.com/alovapd/so-info-hub-patrol#readme"
+  "homepage": "https://github.com/alovapd/so-info-hub-patrol#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
